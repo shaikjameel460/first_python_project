@@ -1,7 +1,7 @@
 def sum(a,b):
     total=a+b
     return total
-n=sum(5,8)   #positional Arguments(Need to check)
+n=sum(5,13)   #positional Arguments(Need to check)
 print(n)
 
 #Arguments are of two types
